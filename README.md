@@ -5,7 +5,7 @@
 | **Project ID** | A11 |
 | **Nama kelompok** | Kelompok Stella |
 | **Kelas** | IF-A |
-| **Dosen pengampu** | Al Hamidy |
+| **Dosen pengampu** | Al Hamidy, S.Kom., M.I.T., Ph.D. |
 | **Anggota** | Dhaifan Al Ghani (231111650), Boris Sanjaya Siregar (231111783), Rasidin Harahap (231110869) |
 | **Notebook (Google Colab)** | [ISI: tautan Colab final] |
 | **Laporan Milestone 1** | folder `laporan/` (PDF) |
