@@ -25,7 +25,7 @@ Proyek ini membangun model **klasifikasi biner** (supervised learning, classical
 - **Pemilik:** Machine Learning Group - Universite Libre de Bruxelles (MLG-ULB), bekerja sama dengan Worldline
 - **URL:** https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - **Berkas:** `creditcard.csv`
-- **Cakupan:** transaksi kartu kredit pemegang kartu Eropa selama dua hari (September 2013, menurut deskripsi dataset)
+- **Cakupan:** transaksi kartu kredit pemegang kartu Eropa selama dua hari (September 2013)
 - **Cara memperoleh:** unduh dari URL di atas (perlu akun Kaggle), atau biarkan notebook mengunduh otomatis melalui `kagglehub`. Dataset **tidak disertakan** di repositori karena berukuran besar (lebih dari 100 MB); gunakan sesuai ketentuan pada halaman Kaggle.
 
 | Aspek | Hasil pemeriksaan notebook |
@@ -51,7 +51,7 @@ Proyek ini membangun model **klasifikasi biner** (supervised learning, classical
 ├── README.md                    # dokumen ini
 ├── requirements.txt             # daftar library dan versi
 ├── .gitignore                   # mengecualikan creditcard.csv
-├── Deteksi_Transaksi_Penipuan_Kartu_Kredit.ipynb   # notebook eksperimen (dari Google Colab)
+├── Deteksi_Transaksi_Penipuan_Kartu_Kredit.ipynb   # notebook eksperimen 
 ├── outputs/
 │   ├── cv_results.csv           # hasil 5-fold stratified CV (data latih)
 │   ├── test_results.csv         # hasil evaluasi data uji
