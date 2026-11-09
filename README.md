@@ -7,8 +7,8 @@
 | **Kelas** | IF-A |
 | **Dosen pengampu** | Al Hamidy, S.Kom., M.I.T., Ph.D. |
 | **Anggota** | Dhaifan Al Ghani (231111650), Boris Sanjaya Siregar (231111783), Rasidin Harahap (231110869) |
-| **Notebook (Google Colab)** | https://colab.research.google.com/drive/1g0WOS0UyM5xnQyDAoAoGSIo2SVLlODlk |
-| **Laporan Milestone 1** | folder `laporan/` (PDF) |
+| **Notebook (Google Colab)** | [Buka di Google Colab](https://colab.research.google.com/drive/1g0WOS0UyM5xnQyDAoAoGSIo2SVLlODlk) |
+| **Laporan Milestone 1 (PDF)** | [Laporan Milestone_1 A11 Deteksi Transaksi Penipuan.pdf](https://mikroskilacid-my.sharepoint.com/:b:/g/personal/boris_sanjaya_students_mikroskil_ac_id/IQCBnTjf6vz4R58dofWCY2M4AdwQddgoiR6VuqJv_a7b5dE?e=qZdTW0) |
 
 ## 1. Deskripsi masalah
 
@@ -51,13 +51,14 @@ Proyek ini membangun model **klasifikasi biner** (supervised learning, classical
 ├── README.md                    # dokumen ini
 ├── requirements.txt             # daftar library dan versi
 ├── .gitignore                   # mengecualikan creditcard.csv
-├── <notebook>.ipynb             # notebook eksperimen (dari Google Colab)
+├── Deteksi_Transaksi_Penipuan_Kartu_Kredit.ipynb   # notebook eksperimen (dari Google Colab)
 ├── outputs/
 │   ├── cv_results.csv           # hasil 5-fold stratified CV (data latih)
 │   ├── test_results.csv         # hasil evaluasi data uji
 │   └── fig_*.png                # gambar EDA, kurva PR, feature importance
-└── laporan/                     # laporan Milestone 1 (PDF)
 ```
+
+Laporan Milestone 1 (PDF) disimpan di SharePoint; tautannya ada pada tabel di bagian atas dokumen ini.
 
 ## 4. Petunjuk penggunaan repositori
 
@@ -126,4 +127,4 @@ Hyperparameter tuning, threshold tuning dari prediksi out-of-fold, uji resamplin
 
 ## 7. File pendukung
 
-`requirements.txt` (versi library), `outputs/` (tabel hasil dan gambar), `.gitignore`, dan folder `laporan/` (laporan PDF). Semua angka pada README dan laporan bersumber dari notebook dan berkas CSV di `outputs/`.
+`requirements.txt` (versi library), `outputs/` (tabel hasil dan gambar), `.gitignore`, dan tautan laporan PDF (SharePoint) pada tabel di bagian atas. Semua angka pada README dan laporan bersumber dari notebook dan berkas CSV di `outputs/`.
