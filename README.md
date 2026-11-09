@@ -7,7 +7,7 @@
 | **Kelas** | IF-A |
 | **Dosen pengampu** | Al Hamidy, S.Kom., M.I.T., Ph.D. |
 | **Anggota** | Dhaifan Al Ghani (231111650), Boris Sanjaya Siregar (231111783), Rasidin Harahap (231110869) |
-| **Notebook (Google Colab)** | [ISI: tautan Colab final] |
+| **Notebook (Google Colab)** | https://colab.research.google.com/drive/1g0WOS0UyM5xnQyDAoAoGSIo2SVLlODlk#scrollTo=CgLReZbD7M8s |
 | **Laporan Milestone 1** | folder `laporan/` (PDF) |
 
 ## 1. Deskripsi masalah
